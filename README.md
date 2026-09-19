@@ -8,3 +8,10 @@ That being said, the master skill is one to generate skills from a paragraph.
 It's meant to work during a brainstorming session so that you can test your
 ideas more easily.
 
+## SUGGESTIONS
+
+To generate new skills use the meta-prompt called "generator.md" and use GPT to 
+generate new skills. When you get the new skill I find it better to use DeepSeek 
+with Search on, so that if some lookups are needed it will do the job, when I 
+tried using Gemini it looked liked it was only generating slop and not actually
+executing the commands of the system prompt.
